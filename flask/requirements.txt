@@ -1,0 +1,6 @@
+Flask
+Jinja2
+SQLAlchemy
+pymysql
+flask_sqlalchemy
+mysql-python
